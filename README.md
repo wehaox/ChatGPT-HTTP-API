@@ -1,9 +1,13 @@
 # ChatGPT-HTTPAPI
-基于acheong08/ChatGPT和Flask的ChatGPT的http json api
+基于acheong08/ChatGPT的revChatGPT.V1和Flask的ChatGPT的http json api
 这是一个本人自用QQ机器人的的ChatGPT聊天接口，现已开源  
 当然，本程序只是一个接口，你需要通过本程序的接口进行开发  
 你可以随意的修改代码实现你想要的功能  
 如果这个接口对你有帮助的话，不要忘记点个star哦🌹  
+本程序有效性跟随 https://github.com/acheong08/ChatGPT 
+如果你发现了本程序失效了可尝试更新revChatGPT 
+
+
 
 # 需要安装的python库
 ```python
