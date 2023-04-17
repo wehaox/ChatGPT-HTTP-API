@@ -7,6 +7,7 @@
 本程序有效性跟随 https://github.com/acheong08/ChatGPT 
 如果你发现了本程序失效了可尝试更新revChatGPT 
 
+python小白，如果写的太烂，勿喷😅
 
 
 # 需要安装的python库
