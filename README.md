@@ -1,4 +1,4 @@
-# ChatGPT-HTTPAPI
+# ChatGPT-HTTP-API
 基于acheong08/ChatGPT的revChatGPT.V1和Flask的ChatGPT的http json api  
 这是一个本人自用QQ机器人的的ChatGPT聊天接口，已稳定运行 >3个月 现已开源  
 当然，本程序只是一个接口，你需要通过本程序的接口进行开发  
@@ -59,7 +59,7 @@ Body传入4个长度的数组
 第一个为对话内容  
 第二个为会话ID  
 第三个为父ID  
-第四个为随意内容，为getSeesions时，将获取新的会话id  
+第四个为随意内容，为`getSeesions`时，将获取新的会话id  
 
 
 # 示例请求结果  
